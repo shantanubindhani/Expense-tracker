@@ -1,20 +1,8 @@
 # Expense-tracker 🧿
-![](https://img.shields.io/badge/Expense-tracker-Android-green)
 
 Expense Tracker is an Android app that helps the person track their Daily and Monthly expenses , it facilitates a clean architecture and leverages MVVM design principles. *Made by [shantanubindhani](https://github.com/shantanubindhani)*
 
 <br />
-
-<!-- ## Preview 🌞
-Add entries | Check Insights | Make Right Decisions | Choose Currency | Set Currency 
---- | --- | --- |--- |--- 
-![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-101943_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-101955_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102006_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102019_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102030_Expense-tracker.jpg)
-Home Screen | Choose Transaction Type | Add Transaction | Enter Amount | After Entry
-![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102041_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102050_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102100_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102124_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102148_Expense-tracker.jpg)
-Insights Screen | Accounts Screen | Settings Screen | Set Limit | Set Limit 2
-![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102158_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102208_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102218_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102223_Expense-tracker.jpg) | ![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102229_Expense-tracker.jpg)
-Individual Account Screen |
-![](https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Screenshot_20230129-102315_Expense-tracker.jpg) -->
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
@@ -34,14 +22,8 @@ Individual Account Screen |
 
 <br />
 
-## Walkthrough App
-<img src="https://github.com/shantanubindhani/Expense-tracker/blob/main/screenshots/Expense-tracker.gif" height="400">
-
 ## Build-tool 🧰
 You need to have [Android Studio](https://developer.android.com/studio/preview) to build this project.
-<br>
-<img src="https://github.com/shantanubindhani/MVVMNews/blob/main/screenshots/android.png" height="200" alt="android-studio"/>
-
 <br>
 
 ## Contribute 🤝
